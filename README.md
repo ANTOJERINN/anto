@@ -14,7 +14,17 @@
 <p align="left">
   <img src="https://camo.githubusercontent.com/a931df81aea90c151e0705203a7ca32ee7fdb0ac65bd0de2242ffd614ed2c31f/68747470733a2f2f6d656469612e74656e6f722e636f6d2f4768334c4b5839484d466b414141416a2f686f6c6c6f772d6b6e696768742d6b6e696768742e676966" width="300px"/>
 </p>
-<p align="right">I am Anto Jerin Joshva, a Computer Science and Engineering student who gives a damn about building things that actually work. I dive deep into Artificial Intelligence, Machine Learning, and software development because I don’t just want to write code -I want to build shit that makes an impact. From training deep learning models that catch leaf diseases to creating AI chatbots and fullstack platforms, I push myself to break limits and figure out the hard stuff. I believe in experimenting, failing fast, fixing the fuck ups, and growing stronger with every project. For me, technology isn’t just a skill — it’s my way of changing the game.</p>
+<p align="right">.</p>
+<p align="right">
+Who Am I?
+
+I’m a student of Systems Analysis and Development at the alpha college of engineering(ACE)
+My journey in technology started early: at the age of 14, I began programming small 3D games in Unity, and soon after, I immersed myself in the world of 2D games using GameMaker.
+At 15, I discovered my creative side and worked as a freelance graphic designer, which also fueled my passion for interfaces and visual aesthetics.
+
+When I turned 18 and entered college, I fully dove into programming.
+Since then, I have been dedicating my time to studying development in depth, with a special focus on Fullstack Web Development.
+Although I study the complete ecosystem, my real strength and the area I enjoy exploring the most is Front-End, where I can combine logic, creativity, and design.</p>
 
 ## 🎯 A Little More About Me  
 ⬛ Always learning and experimenting with **new technologies**.  
