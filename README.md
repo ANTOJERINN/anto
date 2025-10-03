@@ -43,7 +43,7 @@
 
 ## 🎨 Aesthetic Vibe Board  
 <p align="center">
-  <img src="https://i.pinimg.com/originals/82/9d/6b/829d6b0ab37f5b95a16b3089f55fbb84.jpg" width="200px" />
+  <img src="https://i.pinimg.com/736x/09/ba/00/09ba005162c630fa1241ea6a7e279839.jpg" width="200px" />
   <img src="https://i.pinimg.com/originals/51/2f/4e/512f4e66db9a340d53c727fc85f40c5d.jpg" width="200px" />
   <img src="https://i.pinimg.com/originals/f6/29/58/f62958902f80fbc9a2a971e3d13a9cfa.jpg" width="200px" />
 </p>
@@ -52,7 +52,7 @@
 
 ## 📫 Let's Connect!  
 <p align="center">
-  <a href="mailto:antojerinjoshva@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="email:antojerinjoshva@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
