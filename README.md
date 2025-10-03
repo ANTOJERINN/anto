@@ -12,7 +12,7 @@
 ---
 
 <p align="left">
-  <img src="https://camo.githubusercontent.com/a931df81aea90c151e0705203a7ca32ee7fdb0ac65bd0de2242ffd614ed2c31f/68747470733a2f2f6d656469612e74656e6f722e636f6d2f4768334c4b5839484d466b414141416a2f686f6c6c6f772d6b6e696768742d6b6e696768742e676966" width="700px"/>
+  <img src="https://camo.githubusercontent.com/a931df81aea90c151e0705203a7ca32ee7fdb0ac65bd0de2242ffd614ed2c31f/68747470733a2f2f6d656469612e74656e6f722e636f6d2f4768334c4b5839484d466b414141416a2f686f6c6c6f772d6b6e696768742d6b6e696768742e676966" width="100px"/>
 </p>
  Who Am I?  
 - 💡 Passionate about **AI, Machine Learning, and building impactful projects**.  
